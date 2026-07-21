@@ -1,0 +1,14 @@
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.AssemblyInfoInputs.cache
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.AssemblyInfo.cs
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.csproj.CoreCompileInputs.cache
+C:\src\AoC\AoC2025\bin\Debug\net8.0\AoC2025.exe
+C:\src\AoC\AoC2025\bin\Debug\net8.0\AoC2025.deps.json
+C:\src\AoC\AoC2025\bin\Debug\net8.0\AoC2025.runtimeconfig.json
+C:\src\AoC\AoC2025\bin\Debug\net8.0\AoC2025.dll
+C:\src\AoC\AoC2025\bin\Debug\net8.0\AoC2025.pdb
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.dll
+C:\src\AoC\AoC2025\obj\Debug\net8.0\refint\AoC2025.dll
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.pdb
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.genruntimeconfig.cache
+C:\src\AoC\AoC2025\obj\Debug\net8.0\ref\AoC2025.dll
