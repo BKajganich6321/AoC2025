@@ -34,12 +34,12 @@ namespace AoC2025
                     x++;
                     line = fileReader.ReadLine();
                 }
-                Intervals[] = rangeList.ToArray();
+                Intervals[x] = rangeList.ToArray();
                 
                 while(line != null)
                 {
                     List<double item> freshItemList = new();
-                    if(line == '\n')
+                    if(line == "\n")
                     {
                         x = 0;
                         line = fileReader.ReadLine();
@@ -49,7 +49,7 @@ namespace AoC2025
                     x++;
                     line = fileReader.ReadLine();
                 }
-                FreshItems[] = freshItemList.ToArray();
+                FreshItems[x] = freshItemList.ToArray();
             }
         }
 
