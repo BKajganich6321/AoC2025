@@ -12,3 +12,4 @@ C:\src\AoC\AoC2025\obj\Debug\net8.0\refint\AoC2025.dll
 C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.pdb
 C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.genruntimeconfig.cache
 C:\src\AoC\AoC2025\obj\Debug\net8.0\ref\AoC2025.dll
+C:\src\AoC\AoC2025\obj\Debug\net8.0\AoC2025.sourcelink.json
