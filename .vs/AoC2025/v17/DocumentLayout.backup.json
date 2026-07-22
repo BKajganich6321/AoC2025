@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\src\\AoC\\AoC2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T04:41:12.239Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "StorageController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T04:01:32.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T04:01:32.224Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Dial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T05:02:23.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-21T05:02:23.032Z"
             },
             {
               "$type": "Document",
@@ -122,31 +119,30 @@
               "RelativeToolTip": "BatteryBank.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAewAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T04:40:25.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-21T04:40:25.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BatteryBankController.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\BatteryBankController.cs",
               "RelativeDocumentMoniker": "BatteryBankController.cs",
-              "ToolTip": "C:\\src\\AoC\\AoC2025\\BatteryBankController.cs",
-              "RelativeToolTip": "BatteryBankController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\BatteryBankController.cs*",
+              "RelativeToolTip": "BatteryBankController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwDIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T04:10:26.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\src\\AoC\\AoC2025\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCUAAAB0AAAAAAAAAA==",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T23:10:05.402Z",
               "EditorCaption": ""

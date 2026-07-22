@@ -48,7 +48,7 @@ namespace AoC2025
             {
                 int level = b.BatteryLevel;
                 int bestIndex = b.BatteryIndex;
-                if (bestBattery.BatteryLevel < b.BatteryLevel && b.BatteryIndex > lowestIndex)
+                if (bestBattery.BatteryLevel < b.BatteryLevel && b.BatteryIndex < bank.Batteries.Count - lowestIndex)
                 {
                     bestBattery = b;
                 }
