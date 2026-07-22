@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\src\\AoC\\AoC2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +74,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FreshIDController.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\FreshIDController.cs",
+              "RelativeDocumentMoniker": "FreshIDController.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\FreshIDController.cs*",
+              "RelativeToolTip": "FreshIDController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:14:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductIDController.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductIDController.cs",
+              "RelativeDocumentMoniker": "ProductIDController.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductIDController.cs",
+              "RelativeToolTip": "ProductIDController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T13:34:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRanges.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductRanges.cs",
+              "RelativeDocumentMoniker": "ProductRanges.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductRanges.cs",
+              "RelativeToolTip": "ProductRanges.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T13:32:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductID.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductID.cs",
+              "RelativeDocumentMoniker": "ProductID.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductID.cs",
+              "RelativeToolTip": "ProductID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T13:32:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StorageController.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\StorageController.cs",
               "RelativeDocumentMoniker": "StorageController.cs",
@@ -66,18 +131,17 @@
               "RelativeToolTip": "StorageController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAADgv1gAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T04:01:32.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T04:01:32.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\src\\AoC\\AoC2025\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAhwEIAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T23:10:05.402Z",
               "EditorCaption": ""

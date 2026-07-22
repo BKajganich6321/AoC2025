@@ -7,6 +7,7 @@ DialController dialController = new DialController(dial);
 ProductIDController idController = new ProductIDController();
 BatteryBankController batteryController = new BatteryBankController();
 StorageController storageController = new StorageController();
+FreshIDController freshIDController = new FreshIDController("AoCQ5.txt");
 
 idController.UpdateRanges("AoCQ2.txt");
 
@@ -66,5 +67,7 @@ storageController.Removables = 0;
 storageController.SolveRemovables2();
 Console.WriteLine("There are " + storageController.Removables + "removable rolls in part 2");
 idController.Ranges.Clear();
+Console.WriteLine("Items: " + freshIDController.FreshItems.Length);
+Console.WriteLine("Intervals: " + freshIDController.Intervals.Length);
 
 return;

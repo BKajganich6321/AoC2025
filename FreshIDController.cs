@@ -8,9 +8,9 @@ namespace AoC2025
 {
     internal class FreshIDController
     {
-        public (double start, double end)[] Intervals { get; set; }
+        public (long start, long end)[]? Intervals { get; set; }
 
-        public double[] FreshItems { get; set; }
+        public long[] FreshItems { get; set; }
 
         public FreshIDController (string path)
         {
@@ -22,34 +22,35 @@ namespace AoC2025
             using (StreamReader fileReader = new StreamReader(path))
             {
                 string? line = fileReader.ReadLine();
-                List<(double start, double end)> rangeList = new();
+                List<(long start, long end)> rangeList = new();
+                List<long> freshItemList = new();
+
                 int x = 0;
-                while(line != "\n" && line != null)
+                while(line != "" && line != null)
                 {
                     line = line.Trim();
                     string[] rangeString = line.Split('-');
-                    (double start, double end) range = (double.Parse(rangeString[0]), double.Parse(rangeString[1]));
+                    (long start, long end) range = (long.Parse(rangeString[0]), long.Parse(rangeString[1]));
 
                     rangeList.Add(range);    
                     x++;
                     line = fileReader.ReadLine();
                 }
-                Intervals[x] = rangeList.ToArray();
+                Intervals = rangeList.ToArray();
                 
                 while(line != null)
                 {
-                    List<double item> freshItemList = new();
-                    if(line == "\n")
+                    if(line.Trim() == string.Empty)
                     {
                         x = 0;
                         line = fileReader.ReadLine();
                     }
                     line = line.Trim();
-                    freshItemList.Add(double.TryParse(line));
+                    freshItemList.Add(long.Parse(line));
                     x++;
                     line = fileReader.ReadLine();
                 }
-                FreshItems[x] = freshItemList.ToArray();
+                FreshItems = freshItemList.ToArray();
             }
         }
 
