@@ -14,8 +14,37 @@ namespace AoC2025
 
         public FreshIDController (string path)
         {
-            ID = id;
-            idString = name; 
+            UpdateIntervals(path);
+        }
+
+        public void UpdateIntervals(string path)
+        {
+            using (StreamReader fileReader = new StreamReader(path))
+            {
+                string? line = fileReader.ReadLine();
+                int x = 0;
+                while(line != "\n" && line != null)
+                {
+                    line = line.Trim();
+                    string[] rangeString = line.Split('-');
+                    (double start, double end) range = (double.Parse(rangeString[0]), double.Parse(rangeString[1]));
+
+                    Intervals[x] = range;    
+                    x++;
+                }
+                while(line != null)
+                {
+                    if(line == '\n')
+                    {
+                        x = 0;
+                        line = fileReader.ReadLine();
+                    }
+                    line = line.Trim();
+                    FreshItems[x] = double.TryParse(line);
+                    x++;
+                    line = fileReader.ReadLine();
+                }
+            }
         }
 
     }
