@@ -22,6 +22,7 @@ namespace AoC2025
             using (StreamReader fileReader = new StreamReader(path))
             {
                 string? line = fileReader.ReadLine();
+                List<(double start, double end)> rangeList = new();
                 int x = 0;
                 while(line != "\n" && line != null)
                 {
@@ -29,21 +30,26 @@ namespace AoC2025
                     string[] rangeString = line.Split('-');
                     (double start, double end) range = (double.Parse(rangeString[0]), double.Parse(rangeString[1]));
 
-                    Intervals[x] = range;    
+                    rangeList.Add(range);    
                     x++;
+                    line = fileReader.ReadLine();
                 }
+                Intervals[] = rangeList.ToArray();
+                
                 while(line != null)
                 {
+                    List<double item> freshItemList = new();
                     if(line == '\n')
                     {
                         x = 0;
                         line = fileReader.ReadLine();
                     }
                     line = line.Trim();
-                    FreshItems[x] = double.TryParse(line);
+                    freshItemList.Add(double.TryParse(line));
                     x++;
                     line = fileReader.ReadLine();
                 }
+                FreshItems[] = freshItemList.ToArray();
             }
         }
 
