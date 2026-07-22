@@ -58,18 +58,13 @@ foreach (BatteryBank bank in batteryController.Banks)
 Console.WriteLine("Sum of highest voltage output: " + batteryController.VoltageSum.ToString());
 
 storageController.UpdateMap("AoCQ4.txt");
-
-//for (int i = 0; i < storageController.Rows; i++)
-//{
-//    for (int j = 0; j < storageController.Columns; j++)
-//    {
-//        Console.Write(storageController.StorageMap[i][j]);
-//    }
-//    Console.Write('\n');
-//}
+storageController.SolveRemovables1();
 Console.WriteLine("Rows: " + storageController.Rows.ToString() + "\nColumns: " + storageController.Columns.ToString());
-Console.WriteLine("Index 3, 130: " + storageController.StorageMap[3][130]);
-Console.WriteLine("Index 135, 122: " + storageController.StorageMap[134][122]);
-Console.WriteLine(storageController.PaperRolls.Count());
+Console.WriteLine(storageController.Removables);
+Console.WriteLine("There are " + storageController.Removables + "removable rolls in part 1");
+storageController.Removables = 0;
+storageController.SolveRemovables2();
+Console.WriteLine("There are " + storageController.Removables + "removable rolls in part 2");
+idController.Ranges.Clear();
 
 return;
