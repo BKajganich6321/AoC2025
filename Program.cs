@@ -69,5 +69,6 @@ Console.WriteLine("There are " + storageController.Removables + "removable rolls
 idController.Ranges.Clear();
 Console.WriteLine("Items: " + freshIDController.FreshItems.Length);
 Console.WriteLine("Intervals: " + freshIDController.Intervals.Length);
+Console.WriteLine("Fresh Ingredients: " + freshIDController.FreshCount(freshIDController.Intervals, freshIDController.FreshItems));
 
 return;
