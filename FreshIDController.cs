@@ -71,17 +71,17 @@ namespace AoC2025
                 }
                 else
                 {
-                    if (bestRange.end < currentRange.end)
-                    {
-                        if (bestRange.end > currentRange.start)
+                    if (bestRange.end <= currentRange.end)
+                    { 
+                        if (bestRange.end + 1 >= currentRange.start)
                         {
                             bestRange.end = currentRange.end;
                         }
-                        else
-                        {
-                            MergedRanges.Add(bestRange);
-                            bestRange = currentRange;
-                        }
+                    }
+                    if (bestRange.start != bestRange.end && currentRange.start > bestRange.end)
+                    {
+                        MergedRanges.Add(bestRange);
+                        bestRange = currentRange;
                     }
                 }
             }
@@ -89,10 +89,18 @@ namespace AoC2025
             return MergedRanges.ToArray();
         }
 
-
+        public long PossibleFreshIDs((long start, long end)[] ranges)
+        {
+            long totalFreshIDs = 0;
+            foreach ((long start, long end) range in ranges)
+            {
+                long toAdd = range.end - range.start + 1;
+                totalFreshIDs = totalFreshIDs + toAdd;
+            }
+            return totalFreshIDs;
+        }
         public int FreshCount((long start, long end)[] ranges, long[] ingredientIDs)
         {
-            int ingredientIndex = 0;
             int freshIngredientCount = 0;
             int dynamicIngredientIndex = 0;
             foreach ((long start, long end) range in ranges)

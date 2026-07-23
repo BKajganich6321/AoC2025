@@ -70,5 +70,6 @@ idController.Ranges.Clear();
 Console.WriteLine("Items: " + freshIDController.FreshItems.Length);
 Console.WriteLine("Intervals: " + freshIDController.Intervals.Length);
 Console.WriteLine("Fresh Ingredients: " + freshIDController.FreshCount(freshIDController.Intervals, freshIDController.FreshItems));
+Console.WriteLine("Total Possible Fresh IDs: " + freshIDController.PossibleFreshIDs(freshIDController.Intervals));
 
 return;
