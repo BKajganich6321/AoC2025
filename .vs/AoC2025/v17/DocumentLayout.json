@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\src\\AoC\\AoC2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\dialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:dialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\dial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:dial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\dialinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:dialinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:freshidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:productidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\aocq2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:aocq2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:batterybankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\aocq1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:aocq1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57A157C-B995-498B-93E3-26FB4EE2D790}|AoC2025.csproj|c:\\src\\aoc\\aoc2025\\batterybank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,21 +62,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ProductRanges.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductRanges.cs",
               "RelativeDocumentMoniker": "ProductRanges.cs",
               "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductRanges.cs",
               "RelativeToolTip": "ProductRanges.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T13:32:37.593Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -83,25 +110,105 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\StorageController.cs",
+              "RelativeDocumentMoniker": "StorageController.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\StorageController.cs",
+              "RelativeToolTip": "StorageController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T21:18:18.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dial.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\Dial.cs",
+              "RelativeDocumentMoniker": "Dial.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\Dial.cs",
+              "RelativeToolTip": "Dial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T21:18:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialInstruction.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\DialInstruction.cs",
+              "RelativeDocumentMoniker": "DialInstruction.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\DialInstruction.cs",
+              "RelativeToolTip": "DialInstruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T21:17:54.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DialController.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\DialController.cs",
+              "RelativeDocumentMoniker": "DialController.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\DialController.cs",
+              "RelativeToolTip": "DialController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T20:59:27.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductID.cs",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductID.cs",
+              "RelativeDocumentMoniker": "ProductID.cs",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductID.cs",
+              "RelativeToolTip": "ProductID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T20:58:04.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AoCQ1.txt",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\AoCQ1.txt",
+              "RelativeDocumentMoniker": "AoCQ1.txt",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\AoCQ1.txt",
+              "RelativeToolTip": "AoCQ1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-23T19:14:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AoCQ2.txt",
+              "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\AoCQ2.txt",
+              "RelativeDocumentMoniker": "AoCQ2.txt",
+              "ToolTip": "C:\\src\\AoC\\AoC2025\\AoCQ2.txt",
+              "RelativeToolTip": "AoCQ2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-23T19:14:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductIDController.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\ProductIDController.cs",
               "RelativeDocumentMoniker": "ProductIDController.cs",
               "ToolTip": "C:\\src\\AoC\\AoC2025\\ProductIDController.cs",
               "RelativeToolTip": "ProductIDController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAOwHUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T06:31:31.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "BatteryBank.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\BatteryBank.cs",
               "RelativeDocumentMoniker": "BatteryBank.cs",
@@ -113,42 +220,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BatteryBankController.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\BatteryBankController.cs",
               "RelativeDocumentMoniker": "BatteryBankController.cs",
               "ToolTip": "C:\\src\\AoC\\AoC2025\\BatteryBankController.cs",
               "RelativeToolTip": "BatteryBankController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T06:31:13.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T06:31:13.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FreshIDController.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\FreshIDController.cs",
               "RelativeDocumentMoniker": "FreshIDController.cs",
               "ToolTip": "C:\\src\\AoC\\AoC2025\\FreshIDController.cs",
               "RelativeToolTip": "FreshIDController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T20:14:26.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T20:14:26.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\src\\AoC\\AoC2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\src\\AoC\\AoC2025\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T23:10:05.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-19T23:10:05.402Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

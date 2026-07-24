@@ -71,5 +71,10 @@ Console.WriteLine("Items: " + freshIDController.FreshItems.Length);
 Console.WriteLine("Intervals: " + freshIDController.Intervals.Length);
 Console.WriteLine("Fresh Ingredients: " + freshIDController.FreshCount(freshIDController.Intervals, freshIDController.FreshItems));
 Console.WriteLine("Total Possible Fresh IDs: " + freshIDController.PossibleFreshIDs(freshIDController.Intervals));
-
+string input = "3 3   5    3   2 2 34";
+string[] inputArray = input.Split().Where(value => value.Trim() != string.Empty).ToArray();
+foreach (string key in inputArray)
+{
+    Console.WriteLine(key);
+}
 return;

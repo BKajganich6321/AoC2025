@@ -60,10 +60,11 @@ namespace AoC2025
 
             bool pastFirstIteration = false;
             (long start, long end) bestRange = new();
-            ranges.Add(ranges.Last());
+            (long start, long end) finalRange = new();
 
             foreach ((long start, long end) currentRange in ranges)
             {
+                finalRange = currentRange;
                 if (!pastFirstIteration)
                 {
                     pastFirstIteration = true;
@@ -82,10 +83,30 @@ namespace AoC2025
                     {
                         MergedRanges.Add(bestRange);
                         bestRange = currentRange;
-                    }
+                    }  
                 }
             }
-            MergedRanges.Add(bestRange);
+            if (finalRange != bestRange)
+            {
+                if (finalRange.start > bestRange.end)
+                {
+                    MergedRanges.Add(bestRange);
+                    MergedRanges.Add(finalRange);
+                }
+                else if (finalRange.end > bestRange.end)
+                {
+                    bestRange.end = finalRange.end;
+                    MergedRanges.Add(bestRange);
+                }
+                else 
+                {
+                    MergedRanges.Add(bestRange);
+                }
+            }
+            else 
+            {
+                MergedRanges.Add(bestRange);
+            }
             return MergedRanges.ToArray();
         }
 
@@ -112,11 +133,16 @@ namespace AoC2025
                         dynamicIngredientIndex++;
                     }
                 }
-                for(int i = dynamicIngredientIndex; ingredientIDs[i] <= range.end; i++)
+                for(int i = dynamicIngredientIndex; ingredientIDs[i] <= range.end && i < ingredientIDs.Length - 1; i++)
                 {
                     if (ingredientIDs[i] >= range.start)
                     {
                         freshIngredientCount++;
+                    }
+                    
+                    if(dynamicIngredientIndex >= ingredientIDs.Length)
+                    {
+                        break;
                     }
                     dynamicIngredientIndex++;
                 }        
